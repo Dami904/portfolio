@@ -2,7 +2,9 @@
 
 Personal site of **Dami (Dami904)**, a backend-first product engineer building AI agents, payment products and private on-chain systems.
 
-![Portfolio preview](public/shots/bursar.png)
+[![Portfolio homepage](public/readme/preview.png)](https://dami904.vercel.app)
+
+**Live:** [dami904.vercel.app](https://dami904.vercel.app)
 
 ## What's on it
 
